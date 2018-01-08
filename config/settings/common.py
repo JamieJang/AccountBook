@@ -41,7 +41,7 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-    'book',
+    'backends.book',
 ]
 
 THIRD_PARTY_APPS = [
